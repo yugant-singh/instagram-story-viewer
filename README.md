@@ -1,4 +1,5 @@
 #  Instagram-Style Story Viewer
+# Live-Demo - https://instagram-story-viewer-three.vercel.app/
 
 A fully functional Instagram-like story viewer built using HTML, CSS, and JavaScript.
 It includes a horizontal story list, a fullscreen story viewer, a progress bar animation, and a close button — all designed to mimic the Instagram UX.
